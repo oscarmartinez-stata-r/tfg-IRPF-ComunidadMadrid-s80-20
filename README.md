@@ -6,7 +6,7 @@
 # Herramientas utilizadas
   # Bases de datos obtenidas de AEAT e INE
   # Software de análisis: Stata
-  # Modelo econométrico: Diferencias en diferencias
+  # Modelo econométrico: Diferencias en diferencias con efectos fijos
 
 # Código utilizado para el análisis de datos 
 # //empezamos el análisis con todas las variables//

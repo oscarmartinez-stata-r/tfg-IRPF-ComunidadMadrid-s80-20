@@ -102,5 +102,5 @@ regress s80s20 i.treatment##i.year rend_cap_pc pib_pc_sq i.com_id i.year
 
 
 # Interpretaciones finales del estudio
-# Se puede interpretar de los resultados obtenidos que hay un incremento significativo de dicho índice de desigualdad causado por la rebaja fiscal llevada a cabo por la comunidad de Madrid en 2007. La literatura ofrece diferentes motivos para este suceso como puede ser el efecto llamada para grandes rentas o el notorio crecimiento de rentas de capital, cuyos principales dueños pertenecen al quintil superior. Este proyecto pretende ofrecer una base metodológica con la que estudiar la relación de las políticas fiscales del IRPF y su influencia en los índices de  desigualdad. 
+# De los resultados obtenidos, se puede interpretar que existe un incremento significativo de dicho índice de desigualdad, causado por la rebaja fiscal llevada a cabo por la Comunidad de Madrid en 2007. La literatura ofrece diferentes motivos para este fenómeno, como pueden ser el «efecto llamada» para grandes rentas o el notorio crecimiento de las rentas de capital, cuyos principales perceptores pertenecen al quintil superior. Este proyecto pretende ofrecer una base metodológica con la que estudiar la relación entre las políticas fiscales del IRPF y su influencia en los índices de desigualdad.
 

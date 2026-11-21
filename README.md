@@ -1,7 +1,7 @@
 # tfg-IRPF-ComunidadMadrid-s80-20
 # Título: Impacto de políticas fiscales sobre índices de desigualdad en la Comunidad de Madrid
 
-# Resumen: Este repositorio contiene el código y las interpretaciones de un análisis realizado mediante un Diff-diff en el que se mide como el índice de desigualdad s80/20 se ve modificado por políticas de rebaja fiscal en el IRPF, comparando con otras comunidades en el mismo tiempo con otras comunidades autónomas que no realizaron rebajas fiscales.
+# Resumen: Este repositorio contiene el código y las interpretaciones de un análisis realizado mediante un Diff-diff en el que se mide cómo el índice de desigualdad s80/20 se ve modificado por políticas de rebaja fiscal en el IRPF, comparando con otras comunidades en el mismo tiempo que no realizaron rebajas fiscales.
 
 # Herramientas utilizadas
   # Bases de datos obtenidas de AEAT e INE
